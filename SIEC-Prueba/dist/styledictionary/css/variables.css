@@ -1,0 +1,49 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 30 Mar 2022 16:59:10 GMT
+ */
+
+:root {
+  --advertencia: #ff3434;
+  --primario: #ffc629;
+  --negro: #000000;
+  --gris: #a09fa1;
+  --gris-claro: #e4dde4;
+  --amarillo-palido: #f4ddae;
+  --texto-blanco-destacado-family: Gadugi;
+  --texto-blanco-destacado-weight: Regular;
+  --texto-submenu-seleccionado-family: Mark Pro;
+  --texto-submenu-seleccionado-weight: Medium;
+  --texto-claro-boton-family: Mark Pro;
+  --texto-claro-boton-weight: Medium;
+  --texto-submenu-family: Mark Pro;
+  --texto-submenu-weight: Medium;
+  --texto-negro-boton-family: Mark Pro;
+  --texto-negro-boton-weight: Medium;
+  --texto-menu-family: Mark Pro;
+  --texto-menu-weight: Medium;
+  --texto-botonera-family: Mark Pro;
+  --texto-botonera-weight: Medium;
+  --texto-palido-formulario-family: Gadugi;
+  --texto-palido-formulario-weight: Regular;
+  --titulo-2-family: Mark Pro;
+  --titulo-2-weight: Medium;
+  --subtitulo-blanco-family: Mark Pro;
+  --subtitulo-blanco-weight: Medium;
+  --titulo-tabla-family: Mark Pro;
+  --titulo-tabla-weight: Medium;
+  --titulo-1-family: Mark Pro;
+  --titulo-1-weight: Black;
+  --texto-blanco-destacado-size: 17rem;
+  --texto-submenu-seleccionado-size: 11rem;
+  --texto-claro-boton-size: 12rem;
+  --texto-submenu-size: 11rem;
+  --texto-negro-boton-size: 12rem;
+  --texto-menu-size: 8rem;
+  --texto-botonera-size: 10rem;
+  --texto-palido-formulario-size: 12rem;
+  --titulo-2-size: 26rem;
+  --subtitulo-blanco-size: 16rem;
+  --titulo-tabla-size: 13rem;
+  --titulo-1-size: 35rem;
+}

@@ -1,0 +1,22 @@
+{
+  "color": {
+    "Advertencia": {
+      "value": "#FF3434ff"
+    },
+    "Primario": {
+      "value": "#FFC629ff"
+    },
+    "Negro": {
+      "value": "#000000ff"
+    },
+    "Gris": {
+      "value": "#A09FA1ff"
+    },
+    "Gris Claro": {
+      "value": "#E4DDE4ff"
+    },
+    "Amarillo Palido": {
+      "value": "#F4DDAEff"
+    }
+  }
+}

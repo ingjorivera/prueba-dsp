@@ -1,0 +1,24 @@
+<svg id="Componente_5" data-name="Componente 5" xmlns="http://www.w3.org/2000/svg" width="126" height="768" viewBox="0 0 126 768">
+  <rect id="Rectángulo_8" data-name="Rectángulo 8" width="126" height="768"/>
+  <text id="ATENCION_AL_CLIENTE" data-name="ATENCION AL CLIENTE" transform="translate(23 169)" fill="#f4ddae" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="12.256" y="8">ATENCION AL </tspan><tspan x="22.714" y="18">CLIENTE</tspan></text>
+  <text id="LIQUIDACION" transform="translate(23 252)" fill="#f4ddae" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="12.412" y="8">LIQUIDACION</tspan></text>
+  <text id="PARAMETRIZACION" transform="translate(23 335)" fill="#f4ddae" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="0.374" y="8">PARAMETRIZACION</tspan></text>
+  <text id="LIQUIDACION_SAIDI_SAIFI" data-name="LIQUIDACION SAIDI SAIFI" transform="translate(23 418)" fill="#f4ddae" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="0.164" y="8">LIQUIDACION SAIDI </tspan><tspan x="29.9" y="18">SAIFI</tspan></text>
+  <text id="RECAUDO" transform="translate(23 501)" fill="#f4ddae" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="19.508" y="8">RECAUDO</tspan></text>
+  <text id="OTROS_SERVICIOS" data-name="OTROS SERVICIOS" transform="translate(23 584)" fill="#f4ddae" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="2.266" y="8">OTROS SERVICIOS</tspan></text>
+  <text id="CARTERA" transform="translate(23 667)" fill="#f4ddae" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="21.014" y="8">CARTERA</tspan></text>
+  <g id="Componente_6_1" data-name="Componente 6 – 1" transform="translate(23 40)">
+    <rect id="Rectángulo_9" data-name="Rectángulo 9" width="81" height="73" rx="6" fill="#ffc629"/>
+    <text id="CONSULTAS_" data-name="CONSULTAS
+" transform="translate(0 46)" font-size="8" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="15.086" y="8">CONSULTAS</tspan><tspan x="40.5" y="18"></tspan></text>
+    <text id="_" data-name="" transform="translate(0 13)" font-size="24" font-family="FontAwesome5Pro-Regular, 'Font Awesome \35  Pro'"><tspan x="28.5" y="21"></tspan></text>
+  </g>
+  <text id="_2" data-name="" transform="translate(23 136)" fill="#f4ddae" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="30" y="21"></tspan></text>
+  <text id="_3" data-name="" transform="translate(23 219)" fill="#f4ddae" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="28.5" y="21"></tspan></text>
+  <text id="_4" data-name="" transform="translate(23 302)" fill="#f4ddae" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="28.5" y="21"></tspan></text>
+  <text id="_5" data-name="" transform="translate(23 385)" fill="#f4ddae" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="25.5" y="21"></tspan></text>
+  <text id="_6" data-name="" transform="translate(23 468)" fill="#f4ddae" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="28.5" y="21"></tspan></text>
+  <text id="_7" data-name="" transform="translate(23 551)" fill="#f4ddae" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="27" y="21"></tspan></text>
+  <text id="_8" data-name="" transform="translate(23 634)" fill="#f4ddae" font-size="24" font-family="FontAwesome5Pro-Light, 'Font Awesome \35  Pro'" font-weight="300"><tspan x="28.5" y="21"></tspan></text>
+  <path id="Polígono_1" data-name="Polígono 1" d="M18.976.323a1,1,0,0,1,1.048,0l15.967,9.826A1,1,0,0,1,35.467,12H3.533a1,1,0,0,1-.524-1.852Z" transform="translate(83 729) rotate(180)" fill="#fff"/>
+</svg>

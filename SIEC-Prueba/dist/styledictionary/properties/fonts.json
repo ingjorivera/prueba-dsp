@@ -1,0 +1,140 @@
+{
+  "font": {
+    "Texto Blanco Destacado": {
+      "family": {
+        "value": "Gadugi"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Texto Submenu Seleccionado": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Texto Claro Boton": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Texto Submenu": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Texto Negro Boton": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Texto Menu": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Texto Botonera": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Texto Palido Formulario": {
+      "family": {
+        "value": "Gadugi"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Titulo2": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Subtitulo Blanco": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Titulo Tabla": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    },
+    "Titulo1": {
+      "family": {
+        "value": "Mark Pro"
+      },
+      "weight": {
+        "value": "Black"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Texto Blanco Destacado": {
+        "value": "17"
+      },
+      "Texto Submenu Seleccionado": {
+        "value": "11"
+      },
+      "Texto Claro Boton": {
+        "value": "12"
+      },
+      "Texto Submenu": {
+        "value": "11"
+      },
+      "Texto Negro Boton": {
+        "value": "12"
+      },
+      "Texto Menu": {
+        "value": "8"
+      },
+      "Texto Botonera": {
+        "value": "10"
+      },
+      "Texto Palido Formulario": {
+        "value": "12"
+      },
+      "Titulo2": {
+        "value": "26"
+      },
+      "Subtitulo Blanco": {
+        "value": "16"
+      },
+      "Titulo Tabla": {
+        "value": "13"
+      },
+      "Titulo1": {
+        "value": "35"
+      }
+    }
+  }
+}

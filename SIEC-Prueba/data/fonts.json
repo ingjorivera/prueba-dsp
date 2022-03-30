@@ -1,0 +1,415 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2022-03-30T16:55:31.415Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "bcd55dc2-ef53-4b2c-a42c-f11bdee60c81",
+      "name": "Texto Blanco Destacado",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "754c9082-dd4e-48e3-a8a9-93d5053e2534",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "bcd55dc2-ef53-4b2c-a42c-f11bdee60c81",
+          "type": "custom",
+          "value": "Gadugi",
+          "key": "family"
+        },
+        {
+          "id": "bcd55dc2-ef53-4b2c-a42c-f11bdee60c81",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "bcd55dc2-ef53-4b2c-a42c-f11bdee60c81",
+          "type": "size",
+          "value": "17",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "57f67d1d-c841-4509-96db-ae7192c3c48f",
+      "name": "Texto Submenu Seleccionado",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "7411b70b-cdce-425d-9ce8-ea184b030ce0",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "57f67d1d-c841-4509-96db-ae7192c3c48f",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "57f67d1d-c841-4509-96db-ae7192c3c48f",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "57f67d1d-c841-4509-96db-ae7192c3c48f",
+          "type": "size",
+          "value": "11",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c5fd7582-d151-4ffa-bfdb-02521c427caf",
+      "name": "Texto Claro Boton",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "f5e8732a-a381-4922-b238-9e5198b775bf",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c5fd7582-d151-4ffa-bfdb-02521c427caf",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "c5fd7582-d151-4ffa-bfdb-02521c427caf",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "c5fd7582-d151-4ffa-bfdb-02521c427caf",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "12d3af23-a1f0-48d1-9219-ec07481e4591",
+      "name": "Texto Submenu",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "0c05ec32-9eae-403b-a469-cc0f64c0d82a",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "12d3af23-a1f0-48d1-9219-ec07481e4591",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "12d3af23-a1f0-48d1-9219-ec07481e4591",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "12d3af23-a1f0-48d1-9219-ec07481e4591",
+          "type": "size",
+          "value": "11",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "2f2f7a39-3090-40aa-ae4d-f2114fa39c1e",
+      "name": "Texto Negro Boton",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "fd92de53-b707-4d4e-b631-34e6a30c5ff9",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "2f2f7a39-3090-40aa-ae4d-f2114fa39c1e",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "2f2f7a39-3090-40aa-ae4d-f2114fa39c1e",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "2f2f7a39-3090-40aa-ae4d-f2114fa39c1e",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "616e4201-d186-4706-890d-fcc9335ff102",
+      "name": "Texto Menu",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "d68775bb-ff04-4e1d-9ad1-d62bd08d57de",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "616e4201-d186-4706-890d-fcc9335ff102",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "616e4201-d186-4706-890d-fcc9335ff102",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "616e4201-d186-4706-890d-fcc9335ff102",
+          "type": "size",
+          "value": "8",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "ad5f95ce-2b1f-48c1-a870-40c21498ef9a",
+      "name": "Texto Botonera",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "c16f8787-d06c-46aa-9e52-69624d9c61ee",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ad5f95ce-2b1f-48c1-a870-40c21498ef9a",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "ad5f95ce-2b1f-48c1-a870-40c21498ef9a",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "ad5f95ce-2b1f-48c1-a870-40c21498ef9a",
+          "type": "size",
+          "value": "10",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "7b06ef31-3b6e-4288-b64a-b66871731a8e",
+      "name": "Texto Palido Formulario",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "f4771851-d0cf-48ef-b75d-2305471c23c9",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "7b06ef31-3b6e-4288-b64a-b66871731a8e",
+          "type": "custom",
+          "value": "Gadugi",
+          "key": "family"
+        },
+        {
+          "id": "7b06ef31-3b6e-4288-b64a-b66871731a8e",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "7b06ef31-3b6e-4288-b64a-b66871731a8e",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "91d06361-98ce-49cb-8d93-73c2064dc1b0",
+      "name": "Titulo2",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "9d95ef78-59ab-4590-a0b1-7e5838c7a154",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "91d06361-98ce-49cb-8d93-73c2064dc1b0",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "91d06361-98ce-49cb-8d93-73c2064dc1b0",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "91d06361-98ce-49cb-8d93-73c2064dc1b0",
+          "type": "size",
+          "value": "26",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "5fd891b5-f963-4c14-93e7-c835247cc690",
+      "name": "Subtitulo Blanco",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "634e89a2-c42a-4ee2-9a07-53026786bb9f",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "5fd891b5-f963-4c14-93e7-c835247cc690",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "5fd891b5-f963-4c14-93e7-c835247cc690",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "5fd891b5-f963-4c14-93e7-c835247cc690",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "5c570d85-5e39-435d-8bee-7c4ead6c1941",
+      "name": "Titulo Tabla",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "996f1beb-39f0-455d-b4f1-9e2c97ab8bba",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "5c570d85-5e39-435d-8bee-7c4ead6c1941",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "5c570d85-5e39-435d-8bee-7c4ead6c1941",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "5c570d85-5e39-435d-8bee-7c4ead6c1941",
+          "type": "size",
+          "value": "13",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "9c702ad4-cb9f-4fcc-bfb0-173b17ecf539",
+      "name": "Titulo1",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/725f7b6b-79c1-4893-5dc8-d84616e201b4",
+        "id": "6c04beb6-5b7c-4c01-82f5-f9768e50d530",
+        "last_sync": "2022-03-30T16:55:31.415Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "9c702ad4-cb9f-4fcc-bfb0-173b17ecf539",
+          "type": "custom",
+          "value": "Mark Pro",
+          "key": "family"
+        },
+        {
+          "id": "9c702ad4-cb9f-4fcc-bfb0-173b17ecf539",
+          "type": "custom",
+          "value": "Black",
+          "key": "weight"
+        },
+        {
+          "id": "9c702ad4-cb9f-4fcc-bfb0-173b17ecf539",
+          "type": "size",
+          "value": "35",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}
