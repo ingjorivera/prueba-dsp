@@ -1,0 +1,16 @@
+body{
+    background-color: var(--negro);
+    margin: 0;
+    padding: 0;
+
+}
+btn{
+    background-color: var(--primario);
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    width: fit-content;
+    font-family: Mark Pro;
+    font-weight: Medium;
+    font-size: 12px;
+}
